@@ -1,0 +1,50 @@
+{
+    "name": "STRANDED Rewritten",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.47",
+        "tag": "v1.12.47",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0da32d00b71ad17bdde6e0defc054446e17ad4e1",
+        "target": "1.12.57",
+        "pxt": "8.5.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#A12536",
+        "#FF9CC9",
+        "#F09432",
+        "#FBD439",
+        "#08A0C0",
+        "#26A630",
+        "#260E3E",
+        "#5AF0F7",
+        "#6F288B",
+        "#C635BC",
+        "#200030",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
+}
